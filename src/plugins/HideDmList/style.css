@@ -1,0 +1,6 @@
+/* ponytail: attribute selectors on Discord's hashed class names; swap for findCssClassesLazy if they get renamed */
+.vc-hide-sidebar [class*="sidebarList_"],
+.vc-hide-sidebar [class*="privateChannels_"],
+.vc-hide-guilds nav[class*="guilds_"] {
+    display: none !important;
+}
