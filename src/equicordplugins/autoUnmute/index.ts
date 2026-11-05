@@ -86,10 +86,6 @@ export default definePlugin({
     description:
         "يفك عنك السيرفر ميوت / ديفن تلقائيًا إذا تم تفعيلهم عليك وكان عندك الصلاحيات (بدون تنبيهات).",
     authors: [
-        {
-            name: "Bash",
-            id: 1327483363518582784n
-        },
         Devs.r
     ],
 
