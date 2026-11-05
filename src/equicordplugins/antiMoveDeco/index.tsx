@@ -82,7 +82,7 @@ function AntiMoveDecoButton() {
 export default definePlugin({
     name: "AntiMoveDeco",
     description: "Adds a button to prevent being moved or disconnected from a voice channel.",
-    authors: [Devs.anzyh,Devs.rz30,Devs.anzy,Devs.r],
+    authors: [Devs.r],
     enabledByDefault: true,
     dependencies: ["UserAreaAPI"],
 
