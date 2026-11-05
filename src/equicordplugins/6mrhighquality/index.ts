@@ -48,7 +48,7 @@ const settings = definePluginSettings({
 });
 
 export default definePlugin({
-    name: "33nzyStudioAudio",
+    name: "6mrStudioAudio",
     description: "🎙️ Professional studio-grade audio quality for Discord. 510kbps OPUS @ 48kHz with maximum quality settings. Optimized for 192kHz microphones.",
     authors: [Devs.r],
 
