@@ -616,7 +616,7 @@ const fluxHandler = ({ message }: { message: any }) => {
 export default definePlugin({
     name: "MentionTyping",
     description: "Popup فوق للمنشن مع VIP mode، ثيم DM/سيرفر، وتخصيص كامل.",
-    authors: [Devs.anzyh,Devs.rz30,Devs.anzy,Devs.r],
+    authors: [Devs.r],
     settings,
 
     start() {
